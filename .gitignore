@@ -1,0 +1,22 @@
+# Ignore the .env file (sensitive credentials)
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore logs
+*.log
+
+# Ignore IDE settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+*.iml
