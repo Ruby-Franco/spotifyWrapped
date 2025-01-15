@@ -1,5 +1,6 @@
 # Ignore the .env file (sensitive credentials)
 .env
+.cache
 
 # Ignore Python bytecode files
 __pycache__/
